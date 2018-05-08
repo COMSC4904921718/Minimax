@@ -1,0 +1,4 @@
+MAX - Upward pointing triangle. Always takes the highest value of all its children.
+MIN - Downward pointing triangle. Always takes the lowest value of all its children.
+Terminal - Leaf node.
+Leaf  - Bottom most node of a tree.
